@@ -1,0 +1,18 @@
+.pl label{display: block; font-weight: bold;}
+.pl .textfield{width: 70%}
+.pl .description p{ margin-top: 5px}
+
+.ui-datepicker{display: none;}
+.ui-datepicker-trigger{vertical-align: text-top;}
+
+.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+.ui-timepicker-div dl { text-align: left; }
+.ui-timepicker-div dl dt { height: 25px; margin-bottom: -25px; }
+.ui-timepicker-div dl dd { margin: 0 10px 10px 65px; }
+.ui-timepicker-div td { font-size: 90%; }
+.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+
+tr.submit { display: none; }
+.form-error { background-color: lightYellow; border: 1px solid #E6DB55; padding: 5px 10px; width: auto; margin: 10px 0; display: block; }
+#agendamento-wrapper{border-right: 1px solid #DFDFDF;float: left;padding-right: 10px;}
+#expirar-wrapper{float: left;padding-left: 10px;}

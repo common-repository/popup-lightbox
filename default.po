@@ -1,0 +1,196 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Popup Lightbox 1.0\n"
+"POT-Creation-Date: 2013-09-03 12:03-0300\n"
+"PO-Revision-Date: 2013-09-03 12:07-0300\n"
+"Last-Translator: Ramon Vicente <ramonvicentesilva@hotmail.com>\n"
+"Language-Team: Umobi <ramon@umobi.com.br>\n"
+"Language: pt-BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: s;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: popup-lightbox.php:53
+msgid "Titulo"
+msgstr "Titulo"
+
+#: popup-lightbox.php:54
+msgid "Tipo"
+msgstr "Tipo"
+
+#: popup-lightbox.php:55
+msgid "Status"
+msgstr "Status"
+
+#: popup-lightbox.php:56
+msgid "Data"
+msgstr "Data"
+
+#: popup-lightbox.php:68
+msgid "Ativada"
+msgstr "Ativada"
+
+#: popup-lightbox.php:68
+msgid "Desativada"
+msgstr "Desativada"
+
+#: popup-lightbox.php:72
+msgid "Image"
+msgstr "Image"
+
+#: popup-lightbox.php:72
+msgid "Video"
+msgstr "Video"
+
+#: popup-lightbox.php:201 popup-lightbox.php:202 popup-lightbox.php:213
+msgid "Popup"
+msgstr "Popup"
+
+#: popup-lightbox.php:203
+msgid "Adicionar Nova"
+msgstr "Adicionar Nova"
+
+#: popup-lightbox.php:204
+msgid "Adicionar Nova Popup"
+msgstr "Adicionar Nova Popup"
+
+#: popup-lightbox.php:205
+msgid "Editar Popup"
+msgstr "Editar Popup"
+
+#: popup-lightbox.php:206
+msgid "Nova Popup"
+msgstr "Nova Popup"
+
+#: popup-lightbox.php:207
+msgid "Todas Popups"
+msgstr "Todas Popups"
+
+#: popup-lightbox.php:208
+msgid "Ver Popup"
+msgstr "Ver Popup"
+
+#: popup-lightbox.php:209
+msgid "Procurar Popups"
+msgstr "Procurar Popups"
+
+#: popup-lightbox.php:210
+msgid "Nenhuma Popup encontrada"
+msgstr "Nenhuma Popup encontrada"
+
+#: popup-lightbox.php:211
+msgid "Nenhuma Popup encontrada na lixeira"
+msgstr "Nenhuma Popup encontrada na lixeira"
+
+#: popup-lightbox.php:239
+msgid "Sobre"
+msgstr "Sobre"
+
+#: popup-lightbox.php:244
+msgid "Agendamento"
+msgstr "Agendamento"
+
+#: popup-lightbox.php:246
+msgid "Tipo de Popup"
+msgstr "Tipo de Popup"
+
+#: popup-lightbox.php:247
+msgid "Imagem da Popup"
+msgstr "Imagem da Popup"
+
+#: popup-lightbox.php:248
+msgid "Video da Popup"
+msgstr "Video da Popup"
+
+#: popup-lightbox.php:259
+msgid "Tipo do Popup"
+msgstr "Tipo do Popup"
+
+#: popup-lightbox.php:261
+msgid "Imagem"
+msgstr "Imagem"
+
+#: popup-lightbox.php:262
+msgid "Vídeo"
+msgstr "Vídeo"
+
+#: popup-lightbox.php:267
+msgid "Caso deseje mostrar o popup uma uníca vez."
+msgstr "Caso deseje mostrar o popup uma uníca vez."
+
+#: popup-lightbox.php:270
+msgid "Frequência"
+msgstr "Frequência"
+
+#: popup-lightbox.php:274
+msgid "Intervalo de horas que o popup aparecerá para o usuário:"
+msgstr "Intervalo de horas que o popup aparecerá para o usuário:"
+
+#: popup-lightbox.php:275
+msgid "0 - para mostrar em todos os carregamentos"
+msgstr "0 - para mostrar em todos os carregamentos"
+
+#: popup-lightbox.php:288
+msgid "Imagem do Popup"
+msgstr "Imagem do Popup"
+
+#: popup-lightbox.php:290
+msgid "Selecionar imagem"
+msgstr "Selecionar imagem"
+
+#: popup-lightbox.php:292
+msgid "Arte do Popup"
+msgstr "Arte do Popup"
+
+#: popup-lightbox.php:306
+msgid "Url Youtube"
+msgstr "Url Youtube"
+
+#: popup-lightbox.php:309
+msgid "Link de um video no youtube"
+msgstr "Link de um video no youtube"
+
+#: includes/meta-box.php:3
+msgid "Data de Entrada"
+msgstr "Data de Entrada"
+
+#: includes/meta-box.php:6
+msgid "Data exata para o popup entrar no ar"
+msgstr "Data exata para o popup entrar no ar"
+
+#: includes/meta-box.php:10
+msgid "Data de Expiração"
+msgstr "Data de Expiração"
+
+#: includes/meta-box.php:13
+msgid "Data exata para o popup expirar"
+msgstr "Data exata para o popup expirar"
+
+#: includes/meta-box.php:54
+msgid "Selecione a data"
+msgstr "Selecione a data"
+
+#: includes/meta-box.php:100
+msgid "Selecione um tipo válido!"
+msgstr "Selecione um tipo válido!"
+
+#: includes/meta-box.php:135
+msgid "Selecione uma imagem para o Popup"
+msgstr "Selecione uma imagem para o Popup"
+
+#: includes/meta-box.php:137
+msgid "Use essa imagem "
+msgstr "Use essa imagem "
+
+#: includes/meta-box.php:156
+msgid "Ocorreu um erro, tente enviar a imagem novamente!"
+msgstr "Ocorreu um erro, tente enviar a imagem novamente!"
+
+#~ msgid "Select the date"
+#~ msgstr "Select the date"
